@@ -6,6 +6,7 @@ Repo for demonstrating NLP Fundamentals on Common Crawl News Corpus
 
 1. Insall AWS CLI on the machine if it does not exist
 2. Create an environment using the environment.yml file provided
+3. Install pyspark and Java Runtime in case missing
 
 Here are highlights of each Notebook:
 
