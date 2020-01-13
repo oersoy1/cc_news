@@ -1,6 +1,6 @@
 # cc_news
 
-Repo for demonstrating NLP Funcdamentals on Common Crawl News Corpus
+Repo for demonstrating NLP Fundamentals on Common Crawl News Corpus
 
 ### Requirements:
 
