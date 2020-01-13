@@ -10,4 +10,4 @@ Repo for demonstrating NLP Fundamentals on Common Crawl News Corpus
 Here are highlights of each Notebook:
 
 #### 1_eda:
-1. Basic Exploration of files available on the CC_News Dataset [test](https://commoncrawl.org/2016/10/news-dataset-available/) for the month of December 2019
+1. Basic Exploration of files available on the CC_News [Dataset](https://commoncrawl.org/2016/10/news-dataset-available/) for the month of December 2019
